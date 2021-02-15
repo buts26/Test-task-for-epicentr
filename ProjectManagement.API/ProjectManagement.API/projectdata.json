@@ -1,0 +1,26 @@
+{
+  "ProjectConfiguration": {
+    "Projects": [
+      {
+        "Name": "Project",
+        "Description": "Description"
+      },
+      {
+        "Name": "Project2",
+        "Description": "Description2"
+      },
+      {
+        "Name": "Project3",
+        "Description": "Description3"
+      },
+      {
+        "Name": "Project4",
+        "Description": "Description4"
+      },
+      {
+        "Name": "Project5",
+        "Description": "Description5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "UserConfiguration": {
+    "Users": [
+      {
+        "UserName": "admin",
+        "Email": "buts2695@knu.ua",
+        "FirstName": "Yaroslav",
+        "LastName": "Buts"
+      },
+      {
+        "UserName": "admin2",
+        "Email": "buts26952@knu.ua",
+        "FirstName": "Ivan",
+        "LastName": "Ivanenko"
+      },
+      {
+        "UserName": "admin3",
+        "Email": "buts26953@knu.ua",
+        "FirstName": "Vasya",
+        "LastName": "Pupkin"
+      }
+    ]
+  }
+}
